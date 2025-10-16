@@ -1,0 +1,511 @@
+﻿Cliente_ID,Nombre_Completo,Email,Telefono,Fecha_Nacimiento,Genero,Tiene_Menores,Segmento,Ciudad,Fecha_Registro
+CLI-2440,Anselmo Crespi,anselmo.crespi@yahoo.com,+34972 97 40 34,1960-10-14,M,False,Regular,Tarragona,2024-09-17
+CLI-2373,Blanca Pla,blanca.pla@hotmail.com,+34982214658,1963-12-26,F,True,Básico,Álava,2023-12-26
+CLI-8639,Bernardita Bonilla,bernardita.bonilla@yahoo.com,+34984 93 63 92,1993-07-23,F,False,Básico,Granada,2025-05-10
+CLI-4287,Juan Carlos Campillo,juan carlos.campillo@yahoo.com,+34844003424,1992-10-22,M,True,Básico,Burgos,2023-01-17
+CLI-2798,Emiliano Zamorano,emiliano.zamorano@yahoo.com,+34 826 343 524,1990-06-01,M,False,Regular,Teruel,2025-01-19
+CLI-7408,Ester Palomo,ester.palomo@gmail.com,+34647 54 12 12,1969-11-23,F,False,Regular,León,2025-02-24
+CLI-7912,Encarna Galván,encarna.galván@gmail.com,+34882 451 076,1964-08-06,F,False,Básico,Barcelona,2024-05-25
+CLI-3360,Severino Huertas,severino.huertas@hotmail.com,+34 944 729 466,1955-08-04,M,False,Básico,Asturias,2025-06-23
+CLI-8737,Aroa Chaves,aroa.chavesgmail.com,+34813 236 519,1995-11-29,F,False,Básico,Asturias,2022-11-15
+CLI-8875,Victorino Luz,victorino.luzgmail.com,+34881384249,1950-09-06,M,False,Básico,Málaga,2025-07-04
+CLI-1352,Abel Arregui,abel.arregui@gmail.com,+34880075622,1981-09-11,M,False,Regular,Navarra,2025-07-27
+CLI-1663,Nadia Infante,nadia.infante@hotmail.com,+34822 326 111,1957-07-28,F,False,Regular,Navarra,2023-01-04
+CLI-8990,Olga Gallego,olga.gallego@yahoo.com,+34820672434,1978-04-01,F,True,Básico,Teruel,2024-07-31
+CLI-7524,Elena Company,elena.company@yahoo.com,+34828 098 813,1976-12-13,F,True,Básico,Navarra,2024-02-19
+CLI-2468,Marcela Gibert,marcela.gibert@hotmail.com,+34882529912,1969-04-11,F,False,Básico,Badajoz,2025-03-29
+CLI-4531,Dafne Villanueva,dafne.villanueva@hotmail.com,+34 885 48 46 31,1990-08-05,F,True,Regular,Barcelona,2024-01-05
+CLI-3131,Graciana Castell,graciana.castell@yahoo.com,+34815 800 851,1982-09-09,F,True,Básico,Albacete,2023-10-13
+CLI-7080,Vicenta Pizarro,vicenta.pizarro@gmail.com,+34 972 047 743,1971-03-05,F,False,Premium,Ourense,2023-01-16
+CLI-3315,Maximiano Mateo,maximiano.mateo@yahoo.com,+34807 581 477,1970-08-18,M,False,Regular,Almería,2024-05-07
+CLI-2649,Adela Prado,adela.prado@hotmail.com,+34823 435 368,1972-05-08,F,False,Básico,Cáceres,2023-07-25
+CLI-2544,Soraya Zorrilla,soraya.zorrilla@yahoo.com,+34 821 56 91 54,1974-09-12,F,False,Básico,Barcelona,2023-06-14
+CLI-4370,David Amo,david.amo@gmail.com,+34 977 28 97 52,2003-03-01,M,False,Regular,Madrid,2024-10-18
+CLI-4253,Casandra Falcón,casandra.falcón@hotmail.com,+34 873 334 333,2002-04-24,F,False,Regular,Salamanca,2024-04-18
+CLI-1664,Miguela Terrón,miguela.terrón@yahoo.com,+34826 814 124,1977-09-17,F,False,Básico,Málaga,2023-05-29
+CLI-5216,Maricela Herranz,maricela.herranz@gmail.com,+34888609539,1990-07-19,F,False,Básico,Cádiz,2025-08-10
+CLI-2799,Héctor Bartolomé,héctor.bartolomé@yahoo.com,+34975 84 80 18,1975-03-11,M,False,Regular,Vizcaya,2025-07-04
+CLI-8688,Eutimio Cobos,eutimio.cobos@yahoo.com,+34807 86 68 82,1948-08-20,M,True,Básico,Ciudad,2023-11-13
+CLI-6560,Hortensia Yáñez,hortensia.yáñez@yahoo.com,+34873 53 46 24,1988-02-12,F,False,Básico,Guadalajara,2023-02-02
+CLI-3617,Samu Villalobos,samu.villalobos@yahoo.com,+34820744518,1980-10-30,M,True,Regular,Álava,2024-05-08
+CLI-7664,Begoña Lledó,begoña.lledó@gmail.com,+34888 27 10 94,1946-10-30,F,False,Premium,Lugo,2024-08-27
+CLI-9070,Almudena Huertas,almudena.huertas@hotmail.com,+34 902 576 205,1990-10-06,F,False,Regular,Huelva,2025-06-10
+CLI-4076,Amaro Delgado,amaro.delgado@gmail.com,+34 984699041,1963-01-21,M,False,Regular,León,2025-05-12
+CLI-7843,Fortunata Pi,fortunata.pi@yahoo.com,+34807 021 765,1957-05-15,F,False,Regular,Melilla,2022-12-18
+CLI-9088,Emilia Almagro,emilia.almagro@yahoo.com,+34826 15 26 21,1999-02-13,F,False,Regular,Guipúzcoa,2025-04-22
+CLI-5298,Rolando Lorenzo,rolando.lorenzo@hotmail.com,+34982 68 50 14,2005-02-26,M,False,Regular,Palencia,2023-11-29
+CLI-9416,Elodia Alegre,elodia.alegre@gmail.com,+34901 043 350,1954-05-02,F,False,Regular,Navarra,2024-12-15
+CLI-1628,Gonzalo Pavón,gonzalo.pavón@hotmail.com,+34 822846386,1992-05-28,M,False,Básico,Huelva,2024-11-07
+CLI-6785,Geraldo Acevedo,geraldo.acevedo@gmail.com,+34 900973103,1984-03-27,M,True,Regular,Santa Cruz de Tenerife,2024-01-09
+CLI-9447,Jesús Morell,jesús.morell@gmail.com,+34971 24 61 91,1997-05-16,M,False,Regular,Guadalajara,2024-11-18
+CLI-8055,Luna Gimeno,luna.gimeno@hotmail.com,+34943842450,1965-12-04,F,False,Básico,Baleares,2022-12-16
+CLI-8008,Rocío Olivera,rocío.olivera@yahoo.com,+34871 06 52 40,1992-08-20,F,True,Regular,Teruel,2024-08-22
+CLI-5158,Fito Plana,fito.plana@hotmail.com,+34843 18 50 16,1990-08-02,M,False,Regular,Asturias,2024-03-25
+CLI-5606,Amalia Casal,amalia.casal@yahoo.com,+34 974 982 708,1998-08-08,F,True,Básico,Navarra,2024-08-15
+CLI-8306,Gregorio Borrell,gregorio.borrell@gmail.com,+34826 554 262,1995-07-23,M,True,Básico,Asturias,2025-01-14
+CLI-1663,Nadia Infante,nadia.infante@hotmail.com,+34822 326 111,1957-07-28,F,False,Regular,Navarra,2023-01-04
+CLI-3967,María Fernanda Hernandez,maría fernanda.hernandez@hotmail.com,+34875 684 577,1987-05-19,F,False,Regular,Álava,2022-12-05
+CLI-6187,Aurelia Parejo,aurelia.parejo@yahoo.com,+34879 03 91 17,1948-09-18,F,False,Premium,Valladolid,2025-01-17
+CLI-5623,Eufemia Peñalver,eufemia.peñalver@yahoo.com,+34 928193982,1959-01-29,F,False,Premium,Toledo,2024-09-29
+CLI-7716,Ana Sofía Company,ana sofía.company@gmail.com,+34923 68 29 96,2000-01-29,F,False,Básico,Pontevedra,2023-04-12
+CLI-3337,Marisol Pinto,marisol.pinto@hotmail.com,+34 900 31 14 26,1978-11-15,F,False,Regular,Valencia,2024-06-09
+CLI-2535,Leopoldo Barreda,leopoldo.barreda@hotmail.com,+34 922165604,1977-05-28,M,False,Regular,Huelva,2023-03-22
+CLI-2611,Leire Simó,leire.simó@hotmail.com,+34972 995 527,1950-08-01,F,False,Regular,Lugo,2024-08-29
+CLI-2084,Jose Manuel Pinedo,jose manuel.pinedo@hotmail.com,+34 941 179 327,1997-02-26,M,False,Regular,Zaragoza,2022-12-03
+CLI-2969,Carlos Valbuena,carlos.valbuena@gmail.com,+34981951718,1958-10-27,M,False,Regular,Álava,2023-05-24
+CLI-8964,Cándido Vives,cándido.vives@gmail.com,+34 878 86 33 83,1982-11-19,M,True,Premium,Navarra,2025-02-26
+CLI-2810,Lope Aguirre,lope.aguirre@hotmail.com,+34 848 753 269,1980-06-06,M,True,Básico,Castellón,2023-02-24
+CLI-8512,Angelita Estévez,angelita.estévez@hotmail.com,+34983160648,1992-12-19,F,True,Básico,Barcelona,2023-06-19
+CLI-9372,Eladio Díez,eladio.díez@hotmail.com,+34 827818451,1962-03-20,M,False,Regular,Murcia,2025-03-24
+CLI-1158,Ramiro Zapata,ramiro.zapata@hotmail.com,+34800 817 703,1993-06-19,M,False,Regular,Valencia,2022-12-12
+CLI-7326,Caridad Meléndez,caridad.meléndez@hotmail.com,+34 888717464,1991-06-01,F,True,Básico,León,2023-02-14
+CLI-9217,Bautista Campo,bautista.campo@hotmail.com,+34846 449 353,1964-07-27,M,False,Regular,Málaga,2024-11-09
+CLI-2809,Abigaíl Criado,abigaíl.criado@yahoo.com,+34 945566938,1987-11-15,F,False,Básico,Valencia,2025-10-10
+CLI-5470,Kike Mendizábal,kike.mendizábal@yahoo.com,+34 800 10 39 30,1944-12-20,M,False,Premium,Álava,2024-03-11
+CLI-1300,Heriberto Montenegro,heriberto.montenegro@gmail.com,+34 737 44 66 60,1952-07-03,M,False,Regular,Guipúzcoa,2023-09-23
+CLI-2413,Leopoldo Vila,leopoldo.vila@gmail.com,+34 731 58 19 95,1984-03-19,M,False,Básico,Álava,2024-01-09
+CLI-9641,Elías Salazar,elías.salazar@yahoo.com,+34978 97 64 38,1965-06-27,M,True,Regular,Huelva,2024-08-10
+CLI-2072,Yésica Conesa,yésica.conesa@gmail.com,+34 844 546 291,1948-02-19,F,False,Premium,Navarra,2024-05-20
+CLI-2892,Piedad Tello,piedad.tello@gmail.com,+34987 48 42 19,1998-01-04,F,False,Regular,Ciudad,2022-12-30
+CLI-2135,Maricruz Salvador,maricruz.salvador@gmail.com,+34 920 494 651,2005-12-27,F,True,Básico,Salamanca,2024-12-13
+CLI-9628,Claudio Carpio,claudio.carpio@yahoo.com,+34 880 93 63 85,1994-07-30,M,True,Premium,Jaén,2024-10-06
+CLI-7852,Lupe Quintanilla,lupe.quintanilla@yahoo.com,+34876355543,1974-11-17,F,False,Básico,Navarra,2025-07-17
+CLI-2634,Francisco Torre,francisco.torre@gmail.com,+34 843 21 41 88,1979-12-26,M,True,Regular,Sevilla,2024-03-19
+CLI-1599,Emilio Galiano,emilio.galiano@gmail.com,+34 845050209,2005-10-31,M,False,Regular,Guipúzcoa,2023-02-26
+CLI-8305,Marino Tolosa,marino.tolosa@gmail.com,+34952 962 015,1960-07-12,M,True,Básico,Cantabria,2024-07-09
+CLI-1136,Armando Pons,armando.ponsyahoo.com,+34921 487 099,1997-05-17,M,False,Regular,Baleares,2024-07-17
+CLI-2205,Manu Gonzalo,manu.gonzalohotmail.com,+34971 00 51 62,2007-05-02,M,False,Básico,Asturias,2023-10-03
+CLI-9801,Ligia Uría,ligia.uría@hotmail.com,+34979 67 72 19,1986-03-20,F,True,Regular,Zamora,2023-09-20
+CLI-8005,Lupe Tenorio,lupe.tenorio@hotmail.com,+34941 23 09 13,1953-12-18,M,True,Regular,León,2024-02-12
+CLI-8159,Griselda Tamarit,griselda.tamarit@hotmail.com,+34 873 454 019,1965-04-16,F,False,Regular,Murcia,2022-12-09
+CLI-3458,Marco Mayoral,marco.mayoral@hotmail.com,+34885 66 57 43,1998-07-16,M,False,Regular,Granada,2025-08-29
+CLI-1618,Hernán Solera,hernán.solera@hotmail.com,+34 807106513,1953-09-13,M,False,Regular,Cantabria,2025-01-23
+CLI-9606,Yago Tirado,yago.tirado@yahoo.com,+34923171236,1968-08-21,M,True,Regular,Ávila,2024-06-16
+CLI-8109,Arturo Pujol,arturo.pujol@hotmail.com,+34 924 18 27 55,2001-07-01,M,True,Básico,Ourense,2023-12-04
+CLI-2148,Hernando Escolano,hernando.escolano@gmail.com,+34948567661,1972-08-06,M,True,Regular,Segovia,2024-04-05
+CLI-3420,Fortunata Cabrero,fortunata.cabrero@yahoo.com,+34 883284347,1958-02-16,F,False,Regular,Huesca,2023-07-25
+CLI-1653,Ascensión Naranjo,ascensión.naranjoyahoo.com,+34988872874,1953-01-31,F,False,Básico,Zaragoza,2023-04-05
+CLI-5078,Edgardo Azcona,edgardo.azcona@hotmail.com,+34 949400524,1972-11-17,M,False,Regular,Valencia,2024-08-29
+CLI-5797,Sergio Simó,sergio.simó@yahoo.com,+34 841 035 797,1946-04-27,M,False,Regular,Lugo,2025-04-11
+CLI-9632,Maximino Pombo,maximino.pombo@yahoo.com,+34715153195,1989-03-06,M,False,Regular,Alicante,2024-04-12
+CLI-8833,Arsenio Rueda,arsenio.rueda@gmail.com,+34880 696 816,1993-09-05,M,True,Premium,Valencia,2024-03-23
+CLI-2333,Inocencio Prat,inocencio.prat@gmail.com,+34 942625324,1990-04-23,M,False,Regular,León,2023-05-31
+CLI-7038,Bartolomé Luque,bartolomé.luque@hotmail.com,+34 979 840 369,1989-07-03,M,False,Regular,Álava,2023-08-26
+CLI-5873,Ciro Criado,ciro.criado@hotmail.com,+34 833651777,2006-03-02,M,False,Básico,Palencia,2023-06-20
+CLI-2867,Jovita Tirado,jovita.tiradogmail.com,+34 947 929 298,1988-12-18,F,True,Regular,Cáceres,2025-09-12
+CLI-2696,Consuela Gilabert,consuela.gilabert@yahoo.com,+34 846 795 687,1982-12-03,F,True,Regular,Valladolid,2023-11-01
+CLI-5113,Eli Sabater,eli.sabater@hotmail.com,+34887345581,1987-11-12,F,False,Regular,Burgos,2023-10-07
+CLI-3927,Albert Puerta,albert.puerta@gmail.com,+34826492164,1985-05-04,M,False,Regular,Ciudad,2023-12-28
+CLI-9552,Gervasio Poza,gervasio.pozahotmail.com,+34888 278 816,1975-01-07,M,True,Regular,Málaga,2022-10-29
+CLI-3410,Quique Ojeda,quique.ojeda@gmail.com,+34 938815371,1958-03-16,M,False,Básico,León,2023-11-02
+CLI-4138,Amada Donaire,amada.donaireyahoo.com,+34845 222 064,1996-10-01,F,False,Básico,Toledo,2024-09-05
+CLI-2800,Flora Peral,flora.peral@gmail.com,+34 843 85 65 43,1990-04-03,F,False,Básico,Albacete,2023-07-29
+CLI-4357,Darío Galván,darío.galvánhotmail.com,+34 977 401 489,1992-09-27,M,True,Básico,Cádiz,2024-02-13
+CLI-8930,Azucena Llobet,azucena.llobet@hotmail.com,+34947 833 901,1982-02-17,F,True,Básico,Lugo,2025-09-16
+CLI-3959,Inmaculada Campoy,inmaculada.campoy@hotmail.com,+34971115921,1979-04-21,F,False,Básico,Cuenca,2025-06-08
+CLI-6387,Cesar Correa,cesar.correahotmail.com,+34923 900 109,2003-12-18,M,False,Regular,Segovia,2023-09-05
+CLI-3996,Pacífica Gámez,pacífica.gámez@hotmail.com,+34887 738 347,1982-04-03,F,True,Básico,Huesca,2025-08-31
+CLI-8315,Hector Linares,hector.linares@yahoo.com,+34927 98 76 22,1964-09-21,M,False,Regular,Barcelona,2023-10-12
+CLI-8939,Natanael Haro,natanael.haro@hotmail.com,+34 848827229,1967-09-07,M,False,Regular,Valencia,2024-11-02
+CLI-9268,Fito Neira,fito.neira@hotmail.com,+34977702727,2003-10-06,M,False,Básico,Lleida,2024-07-17
+CLI-6800,Rufino Acedo,rufino.acedo@gmail.com,+34 842842102,1964-01-28,M,False,Regular,Huelva,2023-10-17
+CLI-1224,Macario Vargas,macario.vargasgmail.com,+34928 064 890,1964-12-17,M,True,Regular,Sevilla,2023-03-29
+CLI-9673,Silvio Alcolea,silvio.alcolea@gmail.com,+34 848 67 73 60,1967-11-18,M,False,Básico,Jaén,2022-10-16
+CLI-7017,Cornelio Mesa,cornelio.mesa@hotmail.com,+34937871331,1963-03-16,M,False,Básico,Albacete,2025-04-13
+CLI-5485,Sandra Gras,sandra.gras@yahoo.com,+34 925 243 106,1961-01-17,F,True,Premium,Ciudad,2023-08-29
+CLI-7449,Apolinar Sáenz,apolinar.sáenz@gmail.com,+34902 677 418,1986-09-05,M,True,Regular,Cádiz,2024-05-11
+CLI-5017,Cruz Iborra,cruz.iborra@gmail.com,+34925410067,1985-07-09,M,True,Básico,Cáceres,2024-07-17
+CLI-6632,Severo Ruiz,severo.ruiz@gmail.com,+34972 50 60 68,2002-11-17,M,False,Regular,Ciudad,2024-06-03
+CLI-6944,Susanita Miró,susanita.miró@yahoo.com,+34921574313,1952-10-06,F,False,Premium,Vizcaya,2025-04-08
+CLI-1806,Violeta Salmerón,violeta.salmerón@yahoo.com,+34 915381792,1960-06-08,F,False,Regular,Zaragoza,2025-10-02
+CLI-9335,Zacarías Cueto,zacarías.cueto@hotmail.com,+34 846 74 48 57,1967-11-08,M,True,Regular,Vizcaya,2025-06-30
+CLI-7365,Reynaldo Miguel,reynaldo.miguel@gmail.com,+34920334485,1990-06-18,M,False,Regular,Sevilla,2023-04-13
+CLI-4585,Noa Rivas,noa.rivas@gmail.com,+34 825 27 99 08,1956-08-28,F,False,Regular,Ávila,2024-10-31
+CLI-8449,Donato Requena,donato.requenahotmail.com,+34852219693,1958-05-20,M,False,Regular,Palencia,2023-05-23
+CLI-7317,Pascual Blázquez,pascual.blázquez@gmail.com,+34926 290 965,1991-11-24,M,False,Regular,Badajoz,2022-10-29
+CLI-9527,Teresita Trillo,teresita.trillo@yahoo.com,+34 974 366 096,1971-07-07,F,False,Regular,La Coruña,2025-05-19
+CLI-7776,Íñigo Tomás,íñigo.tomás@hotmail.com,+34902 52 18 23,1957-07-24,M,False,Regular,Lleida,2024-06-06
+CLI-7996,Miriam Donaire,miriam.donaire@yahoo.com,+34969415521,1979-02-17,F,True,Regular,La Coruña,2024-09-21
+CLI-5611,Daniel Gabaldón,daniel.gabaldón@hotmail.com,+34946 80 07 22,1979-01-25,M,False,Regular,Ceuta,2023-11-09
+CLI-6277,José Antonio Benítez,josé antonio.benítezyahoo.com,+34 882 294 440,1970-09-08,M,False,Regular,Pontevedra,2023-07-11
+CLI-8201,Adoración Lamas,adoración.lamasgmail.com,+34973 549 651,1957-05-09,F,False,Regular,Lugo,2022-11-20
+CLI-4597,Marita Vall,marita.vall@yahoo.com,+34 737146112,1985-12-10,F,True,Básico,Granada,2024-03-28
+CLI-2520,Viviana Cabrera,viviana.cabrera@gmail.com,+34942 565 234,1976-12-06,F,True,Regular,Ciudad,2025-02-18
+CLI-3865,Mohamed Barriga,mohamed.barriga@gmail.com,+34843902278,1972-11-17,M,False,Regular,Jaén,2025-05-26
+CLI-9631,Gaspar Prieto,gaspar.prieto@gmail.com,+34 901 420 678,1994-04-30,M,True,Regular,Badajoz,2024-09-29
+CLI-2886,René Frías,rené.frías@hotmail.com,+34 978 25 88 74,1964-03-21,M,False,Regular,Ourense,2024-03-30
+CLI-8584,Maximino Patiño,maximino.patiño@yahoo.com,+34926 341 928,1958-12-15,M,False,Premium,Cáceres,2024-09-30
+CLI-4356,Anastasio Cabrero,anastasio.cabrerogmail.com,+34 972903067,1986-05-31,M,False,Regular,Murcia,2023-09-15
+CLI-2940,María Ángeles Cid,maría ángeles.cid@hotmail.com,+34 726 980 420,1993-07-09,F,False,Regular,Cantabria,2025-09-29
+CLI-6916,Hugo Téllez,hugo.téllez@gmail.com,+34886103865,1998-11-05,M,False,Regular,Valencia,2023-02-21
+CLI-5758,Sol Vera,sol.vera@gmail.com,+34 846 528 809,1954-06-06,F,False,Básico,Madrid,2022-11-12
+CLI-9138,Roldán Puig,roldán.puig@gmail.com,+34 833721386,1953-07-25,M,False,Regular,Zaragoza,2025-02-14
+CLI-8758,Onofre Marquez,onofre.marquez@hotmail.com,+34745 719 838,1945-12-31,M,False,Básico,Ciudad,2024-12-14
+CLI-7910,Ainoa Novoa,ainoa.novoa@gmail.com,+34 848 382 825,1955-06-21,F,False,Regular,Lleida,2023-10-08
+CLI-6628,Sergio Trillo,sergio.trillo@yahoo.com,+34927726284,1952-11-22,M,False,Básico,Lleida,2024-08-19
+CLI-2353,Plácido Mas,plácido.mas@yahoo.com,+34946564823,1991-04-27,M,True,Regular,Sevilla,2024-05-23
+CLI-3831,Jessica Gabaldón,jessica.gabaldón@yahoo.com,+34 925 71 77 51,1988-05-02,F,True,Regular,Alicante,2023-04-09
+CLI-9738,Remedios Castrillo,remedios.castrillo@gmail.com,+34 978 837 693,1973-08-04,F,False,Regular,Ciudad,2023-02-01
+CLI-1083,Benigno Lumbreras,benigno.lumbreras@gmail.com,+34980 39 34 83,1954-11-26,M,True,Regular,Teruel,2024-07-10
+CLI-3710,Aureliano Díaz,aureliano.díaz@gmail.com,+34888 556 110,1966-09-17,M,False,Regular,Barcelona,2025-08-08
+CLI-6643,Lupe Taboada,lupe.taboada@gmail.com,+34 977416089,1963-05-23,F,False,Regular,Baleares,2024-09-09
+CLI-7782,Calisto Caballero,calisto.caballero@yahoo.com,+34942 963 259,1992-11-01,M,True,Regular,Cantabria,2023-06-17
+CLI-2604,Cándida Monreal,cándida.monreal@hotmail.com,+34 927905992,1980-08-21,F,False,Premium,Zaragoza,2024-11-15
+CLI-7800,Tomasa Fabregat,tomasa.fabregat@gmail.com,+34 942 36 05 76,1998-07-10,F,False,Básico,Sevilla,2025-07-21
+CLI-8531,Elías Pol,elías.polyahoo.com,+34948 21 20 21,1999-07-07,M,False,Básico,Palencia,2024-10-31
+CLI-9202,Ignacia Mesa,ignacia.mesa@yahoo.com,+34 937 05 12 04,1996-08-13,F,True,Regular,Asturias,2025-02-02
+CLI-8345,Guadalupe Jerez,guadalupe.jerez@hotmail.com,+34 887085887,2001-05-10,M,False,Regular,Alicante,2024-01-16
+CLI-5668,Cristina Serra,cristina.serra@yahoo.com,+34 974 40 74 82,1968-06-16,F,False,Regular,León,2024-04-01
+CLI-5267,Bibiana Zurita,bibiana.zurita@yahoo.com,+34 975 81 89 13,1948-09-10,F,False,Básico,Santa Cruz de Tenerife,2025-08-09
+CLI-4496,Elba Cid,elba.cid@yahoo.com,+34880214958,1974-07-13,F,False,Regular,Almería,2023-05-03
+CLI-4667,Elena Ruano,elena.ruano@gmail.com,+34 943 56 27 29,1961-04-19,F,False,Regular,La Coruña,2025-04-19
+CLI-1090,Eusebio Cueto,eusebio.cueto@hotmail.com,+34980375300,1991-10-28,M,False,Básico,Baleares,2025-03-22
+CLI-7279,Dulce Carmona,dulce.carmona@gmail.com,+34 975674783,1945-11-02,F,False,Básico,Soria,2024-06-09
+CLI-5214,Juan Bautista Puerta,juan bautista.puerta@gmail.com,+34 708589944,1977-05-27,M,False,Básico,Lugo,2023-01-20
+CLI-8840,Emilio Martín,emilio.martín@yahoo.com,+34 888375758,1956-01-08,M,False,Regular,Girona,2023-04-20
+CLI-7064,Reynaldo Somoza,reynaldo.somoza@hotmail.com,+34610 43 28 98,1965-04-05,M,True,Básico,Baleares,2024-01-03
+CLI-9054,Ruy Toledo,ruy.toledo@hotmail.com,+34 708 272 318,1963-09-22,M,True,Regular,Castellón,2023-06-03
+CLI-1101,Simón Tomas,simón.tomashotmail.com,+34 859221699,1985-10-06,M,False,Premium,Málaga,2024-06-01
+CLI-2675,Luis Bustos,luis.bustos@hotmail.com,+34 901096105,1998-06-01,M,False,Premium,Las Palmas,2024-07-21
+CLI-5935,Severo Madrid,severo.madrid@hotmail.com,+34 824 99 86 79,1993-11-11,M,True,Básico,León,2025-03-19
+CLI-5097,Esteban Antúnez,esteban.antúnez@gmail.com,+34987427978,1963-01-27,M,False,Regular,Ourense,2023-04-08
+CLI-6852,Jordi Jáuregui,jordi.jáuregui@hotmail.com,+34 960476580,1951-12-08,M,True,Regular,Murcia,2025-06-29
+CLI-6546,Lilia Pinilla,lilia.pinilla@gmail.com,+34 729593518,1989-07-24,F,True,Premium,Cantabria,2025-01-04
+CLI-4934,Ernesto Escrivá,ernesto.escrivá@gmail.com,+34873 094 077,1958-11-27,M,True,Básico,Murcia,2022-10-21
+CLI-7831,Vidal Fernández,vidal.fernández@hotmail.com,+34 823 128 801,2003-02-14,M,False,Regular,Sevilla,2025-06-16
+CLI-9323,Olegario Tamarit,olegario.tamarit@hotmail.com,+34 927842824,2007-09-30,M,True,Regular,Lugo,2023-04-29
+CLI-8445,Jenny Lillo,jenny.lillo@yahoo.com,+34 878 13 51 82,2007-02-09,F,True,Regular,Castellón,2024-11-03
+CLI-6125,Carla Chaves,carla.chaves@hotmail.com,+34 979 28 08 01,1953-07-19,F,False,Básico,Valladolid,2022-10-22
+CLI-4366,Manola Grau,manola.grau@gmail.com,+34 701031051,1999-05-29,F,False,Premium,Cuenca,2025-08-17
+CLI-2442,Pastor Cabrera,pastor.cabrera@gmail.com,+34 901 005 045,1945-04-03,M,False,Regular,Las Palmas,2023-05-27
+CLI-6573,Hilario Pons,hilario.pons@gmail.com,+34 880 98 26 22,1971-08-11,M,False,Premium,Granada,2023-12-03
+CLI-2588,Arturo Gil,arturo.gil@hotmail.com,+34738 386 379,1976-01-11,M,False,Regular,Zaragoza,2022-10-23
+CLI-5396,Álvaro Fortuny,álvaro.fortuny@gmail.com,+34 924 250 029,1953-08-22,M,False,Regular,Vizcaya,2023-04-03
+CLI-1534,Nydia Guzman,nydia.guzman@hotmail.com,+34 837426841,1957-11-06,F,False,Premium,Huesca,2025-05-24
+CLI-3176,Manuelita Mariño,manuelita.mariño@hotmail.com,+34979 392 855,1982-05-11,F,True,Básico,Cuenca,2025-04-30
+CLI-5058,Rubén Giralt,rubén.giralt@hotmail.com,+34 964 52 57 77,1964-07-15,M,True,Básico,Vizcaya,2024-01-30
+CLI-4489,Tito Mir,tito.mir@hotmail.com,+34 876 339 452,1983-07-16,M,True,Básico,Málaga,2025-02-01
+CLI-6377,Modesto Piquer,modesto.piquer@hotmail.com,+34 920 66 24 62,1960-08-13,M,False,Básico,Ciudad,2023-09-28
+CLI-2801,Olivia Dávila,olivia.dávila@yahoo.com,+34982313237,2003-08-17,F,True,Regular,Huesca,2025-02-19
+CLI-5016,Paola Martín,paola.martín@hotmail.com,+34979 278 755,1947-09-03,F,False,Regular,Lleida,2024-02-24
+CLI-6711,Marcelino Ariño,marcelino.ariño@yahoo.com,+34 921 940 139,1952-09-22,M,False,Regular,Valladolid,2025-08-22
+CLI-3602,Leire Coello,leire.coello@gmail.com,+34 964647154,1963-11-06,F,False,Regular,Toledo,2025-06-09
+CLI-1094,Chema Diego,chema.diego@gmail.com,+34841 061 632,1970-01-03,M,True,Premium,Guadalajara,2023-01-25
+CLI-1038,Ruperto Piquer,ruperto.piquer@hotmail.com,+34825624731,2000-02-26,M,True,Regular,Pontevedra,2025-02-03
+CLI-6218,Régulo Buendía,régulo.buendíahotmail.com,+34 886 57 75 90,1990-03-18,M,True,Premium,Toledo,2024-09-24
+CLI-2745,Noa Pereira,noa.pereira@hotmail.com,+34823 103 924,1960-12-12,F,True,Regular,Guipúzcoa,2025-09-24
+CLI-1484,Modesto Moya,modesto.moya@gmail.com,+34985 16 85 05,1982-08-24,M,True,Regular,Cádiz,2023-09-10
+CLI-7914,Manuel Correa,manuel.correayahoo.com,+34 947 63 72 39,1990-09-03,M,False,Básico,Almería,2025-07-06
+CLI-2673,Aroa Pla,aroa.pla@hotmail.com,+34 902210447,1985-04-26,F,False,Regular,Las Palmas,2025-09-13
+CLI-6308,Marisol Mariscal,marisol.mariscal@gmail.com,+34 976099917,1997-04-11,F,False,Básico,Málaga,2023-04-17
+CLI-3280,Roldán Garcés,roldán.garcés@hotmail.com,+34 949 13 86 12,1971-09-13,M,False,Regular,Lleida,2024-03-11
+CLI-3270,Francisco Cantón,francisco.cantón@yahoo.com,+34846 70 48 28,1990-02-03,M,True,Regular,Santa Cruz de Tenerife,2024-01-19
+CLI-9436,Rosalva Quirós,rosalva.quirós@gmail.com,+34866609379,1968-06-13,F,False,Regular,Jaén,2022-10-19
+CLI-3423,Pablo Lara,pablo.lara@yahoo.com,+34900310698,1947-06-26,M,False,Básico,Burgos,2023-01-05
+CLI-8915,Febe Bonet,febe.bonet@gmail.com,+34 879 39 59 62,1979-04-01,F,False,Regular,Zamora,2023-08-29
+CLI-3845,Luna Flores,luna.flores@yahoo.com,+34 715 83 00 33,2005-07-23,F,False,Premium,Granada,2023-05-01
+CLI-8125,Leandro Nevado,leandro.nevadohotmail.com,+34849 77 22 17,1990-08-24,M,True,Regular,Girona,2023-08-22
+CLI-4689,Ana Paniagua,ana.paniagua@hotmail.com,+34947 50 94 80,1990-05-17,F,False,Regular,Granada,2023-02-11
+CLI-5511,Calisto Vicente,calisto.vicente@yahoo.com,+34843 966 278,1951-03-12,M,False,Regular,Navarra,2023-06-29
+CLI-9544,Amalia Barroso,amalia.barroso@hotmail.com,+34910 899 358,1989-01-22,F,False,Regular,Las Palmas,2025-08-05
+CLI-4570,Carlito Colomer,carlito.colomer@hotmail.com,+34 826 191 485,1971-05-21,M,True,Regular,Córdoba,2024-05-30
+CLI-8327,Nazaret Tovar,nazaret.tovar@hotmail.com,+34 919 69 69 15,1998-05-05,F,False,Regular,Lleida,2025-05-29
+CLI-5442,Hernando Jiménez,hernando.jiménez@gmail.com,+34 709818063,2006-12-25,M,False,Premium,La Rioja,2024-04-27
+CLI-3170,Edelmira Pedraza,edelmira.pedraza@gmail.com,+34 971836134,1962-05-11,F,False,Básico,León,2023-11-25
+CLI-6850,Íngrid Carreño,íngrid.carreñogmail.com,+34706 04 80 58,1959-09-15,F,False,Regular,Guadalajara,2024-12-01
+CLI-2403,Estrella Pont,estrella.pont@gmail.com,+34 735 93 04 07,1946-01-26,F,False,Premium,Vizcaya,2025-04-07
+CLI-3133,Luis Vera,luis.vera@gmail.com,+34 978315851,1972-01-03,M,True,Regular,Ourense,2023-09-29
+CLI-4305,Tamara Benavent,tamara.benavent@gmail.com,+34971 15 51 88,1976-04-05,F,True,Premium,Granada,2023-06-14
+CLI-4122,Balduino Cortes,balduino.cortes@hotmail.com,+34 882486959,2001-03-27,M,False,Regular,Soria,2024-06-21
+CLI-4251,Rómulo Puente,rómulo.puente@yahoo.com,+34 946793341,1954-11-12,M,False,Regular,Ávila,2024-07-03
+CLI-5336,Guiomar Carrión,guiomar.carrión@hotmail.com,+34872 99 82 45,1948-02-26,F,False,Regular,Soria,2024-12-13
+CLI-4225,Valentina Castro,valentina.castro@yahoo.com,+34 846229270,1967-06-01,F,False,Básico,Huesca,2025-08-28
+CLI-7116,Cristóbal Rosa,cristóbal.rosa@yahoo.com,+34 924 83 21 97,2001-08-13,M,False,Básico,Palencia,2025-04-25
+CLI-2985,Valerio Andres,valerio.andres@gmail.com,+34 873030705,2001-12-19,M,False,Regular,Cuenca,2024-05-07
+CLI-8625,Elisabet Olivé,elisabet.olivé@hotmail.com,+34841816158,1950-06-04,F,False,Regular,Zamora,2024-01-25
+CLI-9304,Ambrosio Hidalgo,ambrosio.hidalgo@yahoo.com,+34828799042,1946-11-15,M,False,Regular,Álava,2023-05-14
+CLI-9103,Rodolfo Riera,rodolfo.riera@hotmail.com,+34 747844736,1987-06-10,M,True,Básico,Lleida,2023-02-03
+CLI-5917,Apolinar Perera,apolinar.perera@gmail.com,+34 920 15 22 04,1963-01-08,M,False,Regular,Tarragona,2023-05-16
+CLI-8778,Encarna Díez,encarna.díez@yahoo.com,+34 800 31 78 07,1979-11-25,F,True,Regular,Cantabria,2024-03-24
+CLI-7506,Abraham Julián,abraham.julián@gmail.com,+34 972454990,1976-03-09,M,False,Premium,Segovia,2024-04-23
+CLI-4060,Morena Amador,morena.amador@yahoo.com,+34848 59 79 27,1995-08-07,F,False,Premium,Ceuta,2023-08-19
+CLI-8505,Samu Sáez,samu.sáez@yahoo.com,+34 845 98 25 95,2002-05-02,M,False,Regular,La Coruña,2025-05-27
+CLI-4893,Teresa Mendez,teresa.mendez@yahoo.com,+34 744 61 73 57,1973-07-13,F,False,Básico,Castellón,2025-01-05
+CLI-2942,Anastasia Bosch,anastasia.bosch@yahoo.com,+34 925 54 39 37,1958-05-14,F,True,Regular,Ourense,2022-10-20
+CLI-3177,Toño Llobet,toño.llobet@gmail.com,+34 983463920,1985-04-21,M,False,Regular,Lugo,2025-01-30
+CLI-7665,Valeria Garrido,valeria.garrido@yahoo.com,+34877 65 76 61,1959-03-29,F,False,Regular,Las Palmas,2024-02-10
+CLI-4481,Alma Bonilla,alma.bonilla@gmail.com,+34 854 81 93 46,1959-11-10,F,False,Regular,León,2025-06-18
+CLI-3626,Iker Pujol,iker.pujol@gmail.com,+34843 871 012,1976-03-01,M,True,Premium,Zamora,2025-09-04
+CLI-9657,Ámbar Barrena,ámbar.barrena@yahoo.com,+34 982 48 66 61,1971-08-15,F,True,Regular,Cuenca,2023-02-19
+CLI-2555,Olga Rubio,olga.rubio@hotmail.com,+34987 35 61 59,1972-10-14,F,False,Básico,Sevilla,2023-04-24
+CLI-2172,Ramón Gibert,ramón.gibert@gmail.com,+34803651801,1954-05-25,M,False,Premium,Alicante,2024-01-01
+CLI-7137,Julieta Gargallo,julieta.gargallo@gmail.com,+34976376311,1985-05-10,F,True,Regular,Huelva,2024-08-01
+CLI-4216,Fabio Marín,fabio.marín@hotmail.com,+34 921015569,1964-04-26,M,True,Básico,Cádiz,2023-08-10
+CLI-2578,Leoncio Sandoval,leoncio.sandoval@yahoo.com,+34877 269 097,1977-03-11,M,True,Regular,Teruel,2024-11-30
+CLI-8049,Javi Catalán,javi.catalán@yahoo.com,+34973 90 87 40,1989-04-30,M,False,Básico,Córdoba,2022-10-17
+CLI-7421,Eustaquio Romeu,eustaquio.romeu@hotmail.com,+34 819133412,2007-02-08,M,True,Regular,Cádiz,2025-02-16
+CLI-1056,Liliana Cabezas,liliana.cabezas@yahoo.com,+34978981238,2007-09-29,F,False,Regular,Navarra,2022-11-15
+CLI-8009,Amaro Valero,amaro.valero@hotmail.com,+34 848 52 41 91,1965-09-11,M,False,Premium,Valencia,2024-12-11
+CLI-3854,Ariel Jordán,ariel.jordán@hotmail.com,+34984 899 375,1955-01-07,F,False,Básico,Lleida,2025-09-02
+CLI-2954,Anastasio Piñeiro,anastasio.piñeiro@gmail.com,+34 878565880,1951-06-16,M,False,Básico,Ciudad,2024-01-02
+CLI-8475,Nilo Dávila,nilo.dávila@hotmail.com,+34 901 68 04 43,1996-06-08,M,False,Regular,Zamora,2025-03-31
+CLI-1133,Ale Hoyos,ale.hoyos@yahoo.com,+34 981 687 014,1984-06-20,M,True,Básico,Barcelona,2024-07-25
+CLI-6643,Lupe Taboada,lupe.taboada@gmail.com,+34 977416089,1963-05-23,F,False,Regular,Baleares,2024-09-09
+CLI-1458,Timoteo Cabello,timoteo.cabello@gmail.com,+34842 47 54 69,1999-09-15,M,False,Premium,Cantabria,2024-08-29
+CLI-2145,Alejandra Valverde,alejandra.valverde@yahoo.com,+34849718750,1999-02-24,F,False,Regular,Soria,2023-09-05
+CLI-7697,Borja Elorza,borja.elorza@hotmail.com,+34973 96 88 45,1985-05-30,M,True,Básico,Murcia,2023-09-30
+CLI-9503,Dan Mínguez,dan.mínguez@gmail.com,+34 822 818 835,1982-08-11,M,True,Regular,Toledo,2025-07-11
+CLI-9197,Chita Torrens,chita.torrensyahoo.com,+34841 31 49 13,1959-02-18,F,False,Premium,Madrid,2024-09-12
+CLI-9507,Nazaret Jara,nazaret.jara@gmail.com,+34976 11 11 61,1997-03-07,M,False,Premium,Zaragoza,2023-05-03
+CLI-4193,Anselmo Tur,anselmo.turgmail.com,+34 922 40 83 86,2004-02-14,M,False,Básico,Ciudad,2023-02-12
+CLI-3154,Juanito Palomar,juanito.palomar@yahoo.com,+34 927 87 71 75,1979-02-09,M,False,Regular,Huesca,2024-02-11
+CLI-4436,Rosaura Gutiérrez,rosaura.gutiérrez@yahoo.com,+34 942 322 702,2002-05-16,F,False,Básico,Madrid,2023-05-09
+CLI-6002,Marcio Ortuño,marcio.ortuño@hotmail.com,+34 871 94 21 04,1968-01-06,M,False,Básico,Alicante,2025-03-31
+CLI-2829,Merche Tomas,merche.tomas@yahoo.com,+34710886008,1988-06-25,F,False,Regular,Murcia,2024-01-01
+CLI-6202,Marciano Madrigal,marciano.madrigal@hotmail.com,+34 920 489 952,1973-03-27,M,False,Regular,Melilla,2025-06-20
+CLI-3870,Manu Cortes,manu.cortes@gmail.com,+34974 522 459,1955-11-18,F,True,Regular,Ceuta,2023-11-15
+CLI-5210,Yéssica Corbacho,yéssica.corbacho@yahoo.com,+34 932 437 280,2002-06-25,F,False,Regular,Ávila,2023-05-26
+CLI-9250,Jose Ramón Valencia,jose ramón.valencia@hotmail.com,+34884 161 692,1976-03-03,M,True,Regular,Guadalajara,2023-03-21
+CLI-4447,Macario Morante,macario.morante@gmail.com,+34 884026811,1971-10-19,M,True,Regular,León,2024-04-27
+CLI-2607,Guillermo Rivero,guillermo.rivero@hotmail.com,+34 849 71 09 10,1949-03-03,M,True,Regular,Castellón,2022-12-13
+CLI-4344,Salvador Ríos,salvador.ríos@hotmail.com,+34941590277,1952-12-22,M,False,Regular,La Rioja,2024-08-27
+CLI-6395,Dan Flores,dan.flores@yahoo.com,+34925433036,1978-08-26,M,True,Básico,Cuenca,2023-01-28
+CLI-9358,Albina Sotelo,albina.sotelo@hotmail.com,+34806 160 166,1965-09-28,F,False,Regular,Teruel,2025-04-26
+CLI-6019,Gregorio Corominas,gregorio.corominas@gmail.com,+34816 65 87 60,1946-07-14,M,False,Regular,La Rioja,2024-06-09
+CLI-7109,Cristian Agustí,cristian.agustí@yahoo.com,+34 826849926,1978-02-06,M,False,Regular,Málaga,2025-05-29
+CLI-6374,Tere Asenjo,tere.asenjo@hotmail.com,+34922 415 667,1969-09-14,F,False,Básico,Guipúzcoa,2023-07-30
+CLI-7001,Josep Villa,josep.villa@yahoo.com,+34902 701 687,1978-04-12,M,True,Regular,Castellón,2025-04-06
+CLI-5134,Inocencio Valverde,inocencio.valverde@gmail.com,+34 841824225,1991-10-01,M,True,Básico,Huelva,2024-12-27
+CLI-5427,Herminia Camacho,herminia.camacho@hotmail.com,+34 927 761 228,1965-08-06,F,False,Regular,Málaga,2024-03-20
+CLI-8078,María Pilar Linares,maría pilar.linares@yahoo.com,+34 701 64 51 04,1994-11-02,F,True,Regular,Ceuta,2024-05-26
+CLI-2860,Sergio Benavent,sergio.benavent@yahoo.com,+34821 778 528,1974-11-30,M,False,Premium,Vizcaya,2023-05-01
+CLI-7986,Josep Villaverde,josep.villaverde@hotmail.com,+34 834 473 947,1979-03-12,M,True,Básico,Baleares,2023-05-11
+CLI-4689,Ana Paniagua,ana.paniagua@hotmail.com,+34947 50 94 80,1990-05-17,F,False,Regular,Granada,2023-02-11
+CLI-9418,Diego Mascaró,diego.mascaró@gmail.com,+34879697117,1962-11-29,M,True,Básico,Santa Cruz de Tenerife,2024-12-21
+CLI-8481,Jose Manuel Carmona,jose manuel.carmona@gmail.com,+34987267586,1946-11-19,M,True,Regular,La Rioja,2025-07-26
+CLI-7437,Samuel Carrillo,samuel.carrillo@hotmail.com,+34 803 586 518,1986-08-18,M,True,Básico,Álava,2024-07-26
+CLI-7012,Apolonia Nevado,apolonia.nevado@hotmail.com,+34 810528127,1965-10-09,F,True,Premium,Guadalajara,2025-02-26
+CLI-5954,Yolanda Aller,yolanda.aller@hotmail.com,+34941 70 54 66,1985-09-10,F,True,Regular,Madrid,2023-09-18
+CLI-6871,Chema Martorell,chema.martorell@hotmail.com,+34 823 25 13 41,1963-10-04,M,False,Regular,Huesca,2025-09-24
+CLI-2006,Anacleto Figueroa,anacleto.figueroa@hotmail.com,+34971215107,1949-09-28,M,False,Regular,Cáceres,2025-03-22
+CLI-7502,Nieves Bilbao,nieves.bilbao@yahoo.com,+34 986 519 108,2004-05-04,F,False,Regular,Ourense,2025-01-23
+CLI-5928,Narcisa Tejera,narcisa.tejera@yahoo.com,+34912 785 854,1973-05-05,F,False,Básico,Cantabria,2023-10-30
+CLI-5819,Nando Cruz,nando.cruz@hotmail.com,+34971 558 556,1990-05-08,M,True,Regular,Toledo,2024-02-27
+CLI-8406,Clara Murillo,clara.murillogmail.com,+34972518304,1976-06-20,F,True,Regular,Soria,2025-05-09
+CLI-1455,Eulalia Sanchez,eulalia.sanchez@gmail.com,+34 874298324,1960-05-10,F,True,Regular,Las Palmas,2023-05-26
+CLI-6662,Felix Sanmartín,felix.sanmartín@gmail.com,+34 973 93 71 45,1986-10-22,M,True,Regular,Teruel,2023-04-22
+CLI-8494,Zaira Miranda,zaira.miranda@hotmail.com,+34 981672423,1988-01-03,F,False,Regular,Valencia,2025-04-08
+CLI-1059,Joaquina Carpio,joaquina.carpio@gmail.com,+34 981 484 677,1997-06-21,F,False,Premium,Lleida,2025-02-15
+CLI-9537,Samu Villaverde,samu.villaverde@gmail.com,+34881 172 788,1951-04-11,M,False,Regular,Valladolid,2024-08-30
+CLI-8485,Alba Mesa,alba.mesa@hotmail.com,+34 941 631 931,2004-05-23,F,False,Regular,Soria,2025-05-02
+CLI-4616,Tere Escribano,tere.escribano@gmail.com,+34 979525007,1966-08-11,F,True,Premium,Castellón,2023-07-01
+CLI-2608,Yago Díez,yago.díezgmail.com,+34 800672400,1945-03-24,M,False,Básico,Ourense,2025-05-06
+CLI-3823,María Dolores Montserrat,maría dolores.montserrat@yahoo.com,+34 971 38 72 14,1972-04-10,F,False,Premium,Ávila,2023-10-12
+CLI-3471,Germán Catalá,germán.cataláyahoo.com,+34921623285,1948-11-17,M,False,Regular,Cáceres,2023-11-16
+CLI-8722,Micaela Cantón,micaela.cantón@hotmail.com,+34885 33 21 81,1999-10-22,F,False,Básico,Alicante,2022-11-28
+CLI-1142,Seve Ledesma,seve.ledesma@gmail.com,+34823473799,1972-02-15,M,False,Regular,Guipúzcoa,2022-11-26
+CLI-5070,Manu Planas,manu.planas@yahoo.com,+34 948242201,1970-09-05,F,False,Regular,Burgos,2024-11-07
+CLI-8335,Francisco Espinosa,francisco.espinosa@yahoo.com,+34977 116 719,1993-11-01,M,True,Regular,Burgos,2023-06-01
+CLI-2964,Adriana Vallés,adriana.vallés@hotmail.com,+34 952 11 82 33,1968-08-23,F,False,Básico,Huelva,2023-12-02
+CLI-9620,Ovidio Mora,ovidio.mora@gmail.com,+34 926 879 968,1950-07-15,M,False,Regular,Las Palmas,2022-11-01
+CLI-3017,Fidel Grau,fidel.grau@hotmail.com,+34880 78 54 77,1949-03-09,M,True,Regular,Cáceres,2024-04-12
+CLI-9688,Apolonia Soriano,apolonia.soriano@yahoo.com,+34922 51 25 67,1986-02-25,F,False,Regular,Sevilla,2024-06-26
+CLI-2258,Reyna Arjona,reyna.arjona@gmail.com,+34 881309232,1995-08-01,F,True,Regular,Sevilla,2023-04-08
+CLI-4172,Raimundo Jordán,raimundo.jordán@hotmail.com,+34 865135346,1955-07-21,M,False,Básico,Huesca,2023-11-21
+CLI-7327,Prudencio Paz,prudencio.paz@yahoo.com,+34 928 06 09 83,1974-08-05,M,False,Regular,Navarra,2024-01-04
+CLI-7803,Leocadia Ferrán,leocadia.ferrán@gmail.com,+34 843 406 596,1975-04-08,F,True,Básico,León,2024-03-15
+CLI-2443,Adriana Galan,adriana.galan@gmail.com,+34944 14 29 39,1972-05-27,F,False,Regular,Soria,2025-01-29
+CLI-2956,Victor Muñoz,victor.muñoz@gmail.com,+34 806 74 50 54,1991-07-08,M,True,Básico,Cuenca,2024-11-14
+CLI-5870,Jordana Landa,jordana.landa@gmail.com,+34 824 24 90 35,1990-09-09,F,False,Premium,Ávila,2023-11-02
+CLI-5299,Alfonso Mendez,alfonso.mendez@gmail.com,+34 927 331 586,1946-03-03,M,False,Regular,Ciudad,2023-06-22
+CLI-7693,Samanta Leon,samanta.leon@gmail.com,+34849 78 74 29,1945-05-24,F,False,Regular,Santa Cruz de Tenerife,2024-11-14
+CLI-4615,Fidel Maza,fidel.maza@hotmail.com,+34 846 995 562,1979-07-09,M,False,Básico,Guadalajara,2023-10-30
+CLI-5999,Hugo Gomez,hugo.gomez@gmail.com,+34 948 541 951,1996-02-14,M,True,Premium,Cádiz,2023-09-24
+CLI-6137,Hermenegildo Hervia,hermenegildo.hervia@hotmail.com,+34928 78 85 68,1979-02-08,M,True,Básico,Huelva,2025-10-08
+CLI-4764,Plinio Torrents,plinio.torrents@hotmail.com,+34 800 913 431,1977-09-16,M,True,Regular,Badajoz,2025-06-23
+CLI-2308,Nayara Bermejo,nayara.bermejo@hotmail.com,+34 988 949 058,1993-07-05,F,True,Regular,Lugo,2024-09-17
+CLI-5698,Rita Heras,rita.heras@yahoo.com,+34 828379180,1973-04-23,F,False,Regular,Guadalajara,2023-05-06
+CLI-7548,Hermenegildo Roselló,hermenegildo.roselló@gmail.com,+34 943 18 09 19,1988-02-12,M,True,Básico,Tarragona,2023-02-02
+CLI-4123,Nando Rueda,nando.rueda@gmail.com,+34 843 67 96 92,2001-12-04,M,False,Regular,Málaga,2024-08-01
+CLI-5959,Teodoro Estevez,teodoro.estevez@hotmail.com,+34820 361 939,1964-11-08,M,False,Regular,Salamanca,2023-02-17
+CLI-9857,Santiago Mas,santiago.mas@hotmail.com,+34 945931572,1945-11-17,M,True,Básico,Tarragona,2025-10-08
+CLI-9959,Amarilis Canales,amarilis.canalesgmail.com,+34847 499 982,2006-03-23,F,False,Regular,Valencia,2025-03-30
+CLI-1045,José Escudero,josé.escudero@yahoo.com,+34 942 013 673,1997-12-26,F,False,Básico,Cantabria,2024-09-27
+CLI-7940,Marcial Ariza,marcial.ariza@gmail.com,+34 871 983 735,1964-09-16,M,False,Regular,Álava,2023-09-07
+CLI-3580,Cecilia Villegas,cecilia.villegas@hotmail.com,+34 981 703 482,2007-03-02,F,True,Regular,León,2025-10-01
+CLI-6595,René Barbero,rené.barbero@hotmail.com,+34 888 39 59 95,1970-12-06,M,True,Regular,Granada,2023-05-23
+CLI-5204,Nacio Cruz,nacio.cruz@gmail.com,+34986 12 52 05,1953-02-13,M,True,Premium,La Rioja,2024-01-27
+CLI-7008,Apolonia Carbonell,apolonia.carbonell@yahoo.com,+34927 18 68 92,1960-07-13,F,True,Premium,Navarra,2024-05-26
+CLI-8937,Lucho Quiroga,lucho.quiroga@gmail.com,+34822 253 554,1990-09-07,M,True,Básico,Pontevedra,2025-07-10
+CLI-9416,Elodia Alegre,elodia.alegre@gmail.com,+34901 043 350,1954-05-02,F,False,Regular,Navarra,2024-12-15
+CLI-6371,Manuela Pavón,manuela.pavón@gmail.com,+34872 98 68 00,2000-08-01,F,True,Premium,Barcelona,2024-03-13
+CLI-6798,Casemiro Campillo,casemiro.campillo@gmail.com,+34 980 908 075,1966-11-28,M,True,Regular,Madrid,2025-03-23
+CLI-3944,María Fernanda Arellano,maría fernanda.arellano@yahoo.com,+34 945 98 49 02,1977-07-21,F,False,Premium,León,2022-10-29
+CLI-6304,Florentino Pinilla,florentino.pinilla@yahoo.com,+34 882 170 805,1975-01-29,M,False,Básico,Segovia,2023-01-27
+CLI-1579,Jose Francisco Salvador,jose francisco.salvador@gmail.com,+34 942 947 225,1978-09-23,M,False,Básico,Santa Cruz de Tenerife,2025-05-21
+CLI-3779,Dionisia Salas,dionisia.salas@hotmail.com,+34978 357 790,1970-03-08,F,False,Básico,Baleares,2023-11-17
+CLI-8801,Reynaldo Cuervo,reynaldo.cuervo@yahoo.com,+34 924 423 511,1992-07-10,M,False,Básico,Badajoz,2024-04-22
+CLI-8786,Pepita Martínez,pepita.martínez@yahoo.com,+34982 887 947,1993-05-31,F,True,Regular,Huesca,2024-03-10
+CLI-2097,Ariel Tovar,ariel.tovar@yahoo.com,+34886053773,1969-06-09,F,False,Regular,Badajoz,2025-09-12
+CLI-3218,Hilario Cervantes,hilario.cervantes@hotmail.com,+34 878 12 03 87,1974-09-05,M,False,Regular,Almería,2025-05-29
+CLI-4714,Mamen Roma,mamen.roma@gmail.com,+34 828 128 059,1963-05-18,F,True,Regular,Las Palmas,2023-04-28
+CLI-1123,Sabina Coloma,sabina.coloma@gmail.com,+34844 43 29 21,1961-01-12,F,True,Regular,Vizcaya,2025-06-14
+CLI-2456,Aránzazu Valderrama,aránzazu.valderrama@yahoo.com,+34 822355215,1945-12-06,F,False,Regular,Álava,2023-11-28
+CLI-8496,Nayara Gonzalez,nayara.gonzalez@gmail.com,+34806 16 57 12,1965-06-17,F,False,Básico,Navarra,2023-06-15
+CLI-4527,Ascensión Izquierdo,ascensión.izquierdo@gmail.com,+34 871 163 735,1984-06-06,F,False,Premium,Valladolid,2024-07-17
+CLI-4994,Nerea Menéndez,nerea.menéndez@gmail.com,+34 845 003 791,1993-01-08,F,False,Regular,La Rioja,2025-06-17
+CLI-9353,Luciano Pino,luciano.pino@yahoo.com,+34924 24 04 15,1971-09-25,M,False,Regular,Segovia,2023-11-15
+CLI-2455,Luis Ángel Bustos,luis ángel.bustos@gmail.com,+34 944199062,2004-04-26,M,False,Regular,Girona,2023-11-22
+CLI-9876,Eugenio Ballester,eugenio.ballester@hotmail.com,+34 844771812,2006-07-07,M,False,Premium,La Coruña,2024-07-16
+CLI-7664,Begoña Lledó,begoña.lledó@gmail.com,+34888 27 10 94,1946-10-30,F,False,Premium,Lugo,2024-08-27
+CLI-7572,Fabián Bermúdez,fabián.bermúdez@gmail.com,+34846 856 914,1987-04-29,M,False,Regular,Toledo,2023-10-18
+CLI-5174,Fabiana Santana,fabiana.santana@hotmail.com,+34820366210,1959-06-01,F,False,Básico,Melilla,2024-12-04
+CLI-2177,Victoriano Villanueva,victoriano.villanueva@hotmail.com,+34917 44 89 06,1989-05-08,M,True,Regular,Tarragona,2023-06-23
+CLI-8234,María Luisa Royo,maría luisa.royo@hotmail.com,+34807165820,1978-01-27,F,False,Básico,Pontevedra,2025-08-31
+CLI-7056,Angelino Pomares,angelino.pomares@yahoo.com,+34886991216,1980-04-25,M,False,Básico,Zamora,2024-03-22
+CLI-8240,Pío Rueda,pío.rueda@hotmail.com,+34 979 528 953,2004-08-15,M,False,Premium,Jaén,2024-02-01
+CLI-7858,Salomé Gisbert,salomé.gisbert@yahoo.com,+34922 899 757,2005-09-05,F,False,Premium,Badajoz,2025-08-01
+CLI-5904,Ofelia Garmendia,ofelia.garmendia@yahoo.com,+34819182553,1975-12-31,F,True,Básico,Baleares,2023-11-24
+CLI-4882,Mónica Castillo,mónica.castillohotmail.com,+34 988 068 650,1976-09-27,F,False,Regular,Ceuta,2024-10-30
+CLI-2657,Pilar Herranz,pilar.herranzhotmail.com,+34 872852580,2002-07-25,F,False,Regular,Asturias,2022-10-31
+CLI-5542,Moisés Reig,moisés.reig@gmail.com,+34 803 29 92 28,1948-10-21,M,True,Regular,Ourense,2023-05-29
+CLI-3726,Cintia Villegas,cintia.villegas@gmail.com,+34749883920,1982-02-01,F,True,Regular,Ciudad,2025-07-26
+CLI-4821,Noemí Barreda,noemí.barreda@yahoo.com,+34947 77 35 92,1973-12-13,F,False,Regular,Teruel,2024-02-21
+CLI-8718,Felicidad Rosales,felicidad.rosales@hotmail.com,+34885 544 149,1965-06-07,F,False,Básico,Lleida,2025-08-27
+CLI-3152,María Teresa Mosquera,maría teresa.mosquera@hotmail.com,+34876174612,1968-10-02,F,True,Regular,Alicante,2024-01-28
+CLI-4461,Gastón Valverde,gastón.valverde@yahoo.com,+34 901 91 47 66,1945-11-23,M,False,Básico,Lugo,2023-06-12
+CLI-5914,Brígida Córdoba,brígida.córdoba@hotmail.com,+34 971 13 97 18,2006-02-17,F,False,Premium,Zaragoza,2023-01-07
+CLI-1493,Aristides Hernández,aristides.hernández@yahoo.com,+34 979 83 77 70,1962-07-19,M,False,Regular,Girona,2023-09-22
+CLI-8532,Néstor Valencia,néstor.valencia@hotmail.com,+34 846945651,1972-08-05,M,True,Básico,Melilla,2025-08-01
+CLI-9312,Hilario Araujo,hilario.araujo@hotmail.com,+34 619 948 837,1981-05-17,M,True,Regular,Huesca,2023-01-05
+CLI-2296,Cosme Salazar,cosme.salazar@gmail.com,+34928989334,1977-08-31,M,False,Básico,Cádiz,2025-09-07
+CLI-8255,Ruperta Mateu,ruperta.mateu@gmail.com,+34 838699938,1944-11-15,F,True,Básico,León,2024-08-30
+CLI-3207,Roldán Neira,roldán.neira@hotmail.com,+34806 51 51 86,1991-07-03,M,True,Básico,Córdoba,2025-07-28
+CLI-4882,Mónica Castillo,mónica.castillo@hotmail.com,+34 988 068 650,1976-09-27,F,False,Regular,Ceuta,2024-10-30
+CLI-8843,Gastón Marqués,gastón.marqués@yahoo.com,+34726409097,1965-07-11,M,False,Básico,Vizcaya,2023-10-05
+CLI-2507,Nacho Aller,nacho.aller@hotmail.com,+34828676184,1979-10-31,M,False,Regular,Tarragona,2023-06-07
+CLI-2533,Teo Núñez,teo.núñez@yahoo.com,+34 803 78 16 18,1969-06-04,M,False,Regular,Santa Cruz de Tenerife,2025-05-30
+CLI-3602,Leire Coello,leire.coellogmail.com,+34 964647154,1963-11-06,F,False,Regular,Toledo,2025-06-09
+CLI-5701,Josep Rodrigo,josep.rodrigo@yahoo.com,+34935 647 292,1986-01-02,M,True,Regular,Badajoz,2023-12-06
+CLI-6254,Adalberto Carbó,adalberto.carbó@yahoo.com,+34 972 399 305,1985-06-29,M,True,Regular,Zamora,2023-04-07
+CLI-5050,Gil López,gil.lópez@yahoo.com,+34988498084,1999-12-13,M,True,Básico,Barcelona,2023-11-27
+CLI-3533,Rosalía Ribera,rosalía.ribera@gmail.com,+34922 58 30 34,1972-03-21,F,False,Premium,Zamora,2023-01-26
+CLI-8770,Trinidad Clemente,trinidad.clemente@hotmail.com,+34 945 12 01 83,1954-05-20,M,False,Premium,La Rioja,2024-09-16
+CLI-3000,Inocencio Prado,inocencio.prado@yahoo.com,+34 942666832,1999-06-12,M,False,Básico,Barcelona,2023-08-01
+CLI-5305,Rogelio Andreu,rogelio.andreu@yahoo.com,+34 885 81 49 17,1946-02-20,M,True,Regular,Málaga,2024-04-24
+CLI-9079,Nayara Uribe,nayara.uribe@gmail.com,+34 983114374,1954-12-09,F,False,Regular,Lleida,2022-12-29
+CLI-3705,Julieta Carrión,julieta.carrión@hotmail.com,+34879 24 80 86,1977-10-24,F,True,Premium,Ceuta,2023-04-07
+CLI-2419,Bruno Céspedes,bruno.céspedes@gmail.com,+34746 046 333,1985-12-27,M,True,Básico,Cádiz,2024-08-25
+CLI-2225,Inés Quiroga,inés.quirogahotmail.com,+34 948416052,1951-07-15,F,False,Regular,Tarragona,2024-04-27
+CLI-8702,Salomón Elorza,salomón.elorza@yahoo.com,+34 732563421,1973-09-20,M,True,Regular,Alicante,2024-10-13
+CLI-8439,Aura Sarabia,aura.sarabia@yahoo.com,+34 885 97 35 02,1963-06-09,F,True,Premium,Murcia,2022-11-16
+CLI-8542,Leonor Ugarte,leonor.ugartegmail.com,+34878430107,2005-08-22,F,False,Regular,Valencia,2023-08-31
+CLI-1199,Dan Iriarte,dan.iriarte@gmail.com,+34859 08 78 14,1957-12-27,M,False,Regular,Córdoba,2023-03-14
+CLI-3204,Gastón Arjona,gastón.arjona@yahoo.com,+34878 145 303,2005-01-05,M,False,Premium,Jaén,2024-10-11
+CLI-6217,Juan Pablo Serra,juan pablo.serra@hotmail.com,+34947 393 827,1964-03-16,M,False,Regular,Asturias,2024-03-25
+CLI-9442,Maximino Palma,maximino.palma@gmail.com,+34 987636374,1955-09-08,M,False,Regular,Girona,2024-03-20
+CLI-4927,Hortensia Cordero,hortensia.cordero@hotmail.com,+34873689702,1969-03-22,F,True,Regular,Navarra,2024-02-29
+CLI-4206,José Aguirre,josé.aguirre@yahoo.com,+34 977 40 64 93,1945-07-07,F,False,Regular,Navarra,2024-05-15
+CLI-9183,Paco Giner,paco.giner@gmail.com,+34 944 799 813,1992-12-11,M,False,Regular,Girona,2024-06-16
+CLI-2809,Abigaíl Criado,abigaíl.criado@yahoo.com,+34 945566938,1987-11-15,F,False,Básico,Valencia,2025-10-10
+CLI-7948,Ildefonso Cerdán,ildefonso.cerdán@yahoo.com,+34 873752654,1989-02-06,M,True,Regular,Ourense,2023-10-24
+CLI-9064,Gabriel Atienza,gabriel.atienza@yahoo.com,+34 980 97 48 01,1987-11-01,M,True,Básico,Barcelona,2023-11-27
+CLI-8860,Flor Palmer,flor.palmer@yahoo.com,+34 886 317 139,1997-11-05,F,False,Regular,Almería,2024-03-14
+CLI-1151,Hilario Arroyo,hilario.arroyo@gmail.com,+34844 04 89 96,1955-05-19,M,False,Regular,Burgos,2023-08-13
+CLI-8798,Natalio Vázquez,natalio.vázquezyahoo.com,+34 901408926,2001-01-06,M,False,Regular,Almería,2024-03-31
+CLI-7840,Jacinta Checa,jacinta.checa@gmail.com,+34886 731 781,1950-03-25,F,False,Premium,Segovia,2025-01-29
+CLI-6574,Candelario Catalán,candelario.catalán@gmail.com,+34 977908641,1960-02-20,M,False,Básico,Málaga,2024-08-17
+CLI-8531,Elías Pol,elías.pol@yahoo.com,+34948 21 20 21,1999-07-07,M,False,Básico,Palencia,2024-10-31
+CLI-3906,María José Vargas,maría josé.vargas@hotmail.com,+34 972 277 434,1964-03-26,F,False,Premium,Santa Cruz de Tenerife,2023-10-19
+CLI-4948,Paula Mariño,paula.mariño@gmail.com,+34 696902959,2000-12-01,F,True,Básico,Santa Cruz de Tenerife,2025-03-09
+CLI-3138,Jose Ignacio Malo,jose ignacio.malo@gmail.com,+34917905072,1978-12-06,M,False,Premium,Jaén,2025-03-03
+CLI-9351,Alma Camps,alma.campsyahoo.com,+34924 56 98 16,1953-06-01,F,False,Regular,Córdoba,2022-12-20
+CLI-8497,Ruperto Pi,ruperto.pi@yahoo.com,+34977968868,1989-11-10,M,True,Regular,Zamora,2024-04-23
+CLI-8233,Jimena Saldaña,jimena.saldaña@hotmail.com,+34 972 17 75 17,1950-08-20,F,True,Regular,Badajoz,2024-06-30
+CLI-1025,Nerea Canals,nerea.canals@hotmail.com,+34902 097 499,1997-03-23,F,False,Regular,Toledo,2022-12-31
+CLI-2411,Guadalupe Cortes,guadalupe.cortes@yahoo.com,+34 884596158,1958-11-11,F,True,Regular,Guadalajara,2025-06-12
+CLI-8662,Cayetana Calatayud,cayetana.calatayudyahoo.com,+34 841 70 31 20,1973-01-30,F,False,Regular,Castellón,2024-03-27
+CLI-9502,Maximiano Anguita,maximiano.anguita@hotmail.com,+34 946 930 848,1968-08-23,M,False,Regular,Segovia,2023-05-31
+CLI-7790,Pascual Alberdi,pascual.alberdi@yahoo.com,+34 925884252,1946-12-15,M,True,Básico,Toledo,2023-04-14
+CLI-7901,Marisol Jara,marisol.jara@yahoo.com,+34975 202 590,1960-10-15,F,False,Regular,Madrid,2025-03-20
+CLI-9387,Quirino Barrera,quirino.barrera@yahoo.com,+34807097882,1947-07-30,M,True,Regular,Málaga,2023-02-14
+CLI-9290,Santos Arco,santos.arco@gmail.com,+34914516808,1983-04-07,M,True,Básico,La Rioja,2023-01-05
+CLI-7084,Rita Maestre,rita.maestre@hotmail.com,+34 806 666 580,2002-07-09,F,False,Regular,Valencia,2023-11-07
+CLI-1258,Lara Camps,lara.camps@hotmail.com,+34822 42 83 41,1996-12-20,F,False,Básico,Albacete,2024-12-08
+CLI-2773,Vidal Ramirez,vidal.ramirez@yahoo.com,+34983 51 61 22,1964-08-29,M,False,Básico,Guadalajara,2023-11-02
+CLI-2526,Fito Cámara,fito.cámara@yahoo.com,+34882 20 54 93,1950-07-23,M,False,Regular,Salamanca,2025-07-01
+CLI-1920,Pepe Yuste,pepe.yuste@gmail.com,+34 910 915 701,2001-11-26,M,False,Premium,Albacete,2025-03-28
+CLI-3148,Luisina Grau,luisina.grau@hotmail.com,+34 926 16 06 07,2001-04-25,F,False,Regular,Guadalajara,2025-03-25
+CLI-5764,Álvaro Sanz,álvaro.sanz@gmail.com,+34800518449,1990-09-20,M,False,Regular,Jaén,2025-07-24
+CLI-1320,Loida Somoza,loida.somoza@hotmail.com,+34922 654 420,1956-05-22,F,False,Regular,Toledo,2025-03-06
+CLI-6182,Odalis Murillo,odalis.murillo@yahoo.com,+34 973 70 17 15,1961-08-15,F,True,Básico,Lleida,2023-07-05
+CLI-3620,Marcelo López,marcelo.lópez@hotmail.com,+34734 389 836,1948-08-10,M,False,Regular,Segovia,2023-01-05
+CLI-8496,Nayara Gonzalez,nayara.gonzalez@gmail.com,+34806 16 57 12,1965-06-17,F,False,Básico,Navarra,2023-06-15
+CLI-8989,Malena Palma,malena.palma@hotmail.com,+34 920832818,1989-11-10,F,True,Básico,La Rioja,2025-02-02
+CLI-6099,Melchor Martín,melchor.martín@yahoo.com,+34806 31 36 50,1970-12-29,M,True,Regular,Zamora,2023-12-15
+CLI-1694,Marisol Carretero,marisol.carretero@gmail.com,+34700 979 251,1954-03-15,F,False,Regular,Cáceres,2024-11-27
+CLI-5077,Teófila Pizarro,teófila.pizarro@yahoo.com,+34947 022 356,1969-05-06,F,False,Regular,Burgos,2024-02-16
+CLI-2101,Rodolfo Casas,rodolfo.casas@hotmail.com,+34 977 824 896,1958-12-01,M,False,Regular,Murcia,2025-09-18
+CLI-4056,Josefina Cabanillas,josefina.cabanillas@yahoo.com,+34 975 73 32 94,1992-04-06,F,True,Básico,La Coruña,2023-07-24
+CLI-1847,Curro Ramírez,curro.ramírez@yahoo.com,+34 984 508 214,1963-07-27,M,True,Regular,Barcelona,2025-01-04
+CLI-2062,Manuela Ponce,manuela.ponce@hotmail.com,+34 806 34 76 44,2007-05-01,F,False,Regular,Cáceres,2024-07-30
+CLI-9854,Vicenta Pardo,vicenta.pardo@gmail.com,+34820 03 41 31,1972-05-24,F,False,Básico,Cuenca,2024-09-16
+CLI-7849,Azahara Escalona,azahara.escalona@yahoo.com,+34 986230047,1998-05-09,F,False,Regular,Murcia,2024-05-24
+CLI-7554,Carmela Ariza,carmela.ariza@hotmail.com,+34967889255,2004-01-17,F,False,Regular,Jaén,2024-07-09
+CLI-4097,Fernanda Araujo,fernanda.araujoyahoo.com,+34 921 561 681,1945-11-18,F,False,Regular,Lugo,2023-05-10
+CLI-2815,Lucio Ferreras,lucio.ferreras@hotmail.com,+34942 763 201,1967-07-18,M,False,Regular,Ceuta,2023-07-13
+CLI-9567,Maricruz Cuadrado,maricruz.cuadradogmail.com,+34 842 966 667,1986-04-21,F,True,Premium,Álava,2022-12-10
+CLI-8869,Domingo Casas,domingo.casas@hotmail.com,+34 874 183 933,1964-08-13,M,True,Básico,Vizcaya,2023-05-30
+CLI-4627,Maribel Peinado,maribel.peinado@hotmail.com,+34 842 911 467,1985-04-12,F,False,Regular,Vizcaya,2024-07-10
+CLI-2900,Aníbal Mosquera,aníbal.mosquera@yahoo.com,+34 902796275,1947-06-26,M,False,Básico,Alicante,2024-04-12
+CLI-4509,Marciano Puente,marciano.puenteyahoo.com,+34 744 773 586,1951-08-09,M,True,Regular,Cádiz,2025-09-02
+CLI-9136,Rosendo Ríos,rosendo.ríos@gmail.com,+34 820 35 56 90,1965-10-26,M,False,Básico,Soria,2024-09-10
+CLI-9679,Lucho Saez,lucho.saez@yahoo.com,+34 942886239,2003-04-10,M,False,Premium,Córdoba,2023-01-02
+CLI-2775,Juan José Jaén,juan josé.jaén@yahoo.com,+34876910371,1992-11-01,M,True,Regular,Zaragoza,2025-07-01
+CLI-3254,Melisa Morcillo,melisa.morcillo@hotmail.com,+34986 478 961,2005-03-09,F,False,Regular,Segovia,2025-07-20
+CLI-1719,Samu Cantero,samu.cantero@yahoo.com,+34 976 05 38 33,1961-02-08,M,False,Básico,Navarra,2024-11-01
+CLI-2606,Nicanor Boada,nicanor.boada@yahoo.com,+34820 888 880,1960-05-03,M,True,Regular,Lugo,2022-12-19
+CLI-8442,Encarna Guzman,encarna.guzman@yahoo.com,+34814 608 432,2003-04-25,F,False,Básico,La Coruña,2025-07-29
+CLI-8312,María Fernanda Uriarte,maría fernanda.uriarte@gmail.com,+34 977767199,2001-01-13,F,False,Regular,Ciudad,2025-02-09
+CLI-7533,José María Canales,josé maría.canales@hotmail.com,+34876908470,2004-04-05,M,False,Básico,Lugo,2024-06-27
+CLI-8238,Ciríaco Requena,ciríaco.requena@hotmail.com,+34966 326 634,1991-09-20,M,True,Regular,Las Palmas,2025-06-10
+CLI-6200,Aarón Roman,aarón.roman@hotmail.com,+34842 424 154,1996-12-30,M,False,Premium,Huesca,2025-08-10
+CLI-6948,Máximo Fabra,máximo.fabra@hotmail.com,+34 977820715,1993-02-14,M,True,Básico,Málaga,2025-07-12
+CLI-9048,Maristela Martínez,maristela.martínez@yahoo.com,+34881743671,2002-06-18,F,True,Básico,Jaén,2025-03-19
+CLI-5218,Fortunata Lerma,fortunata.lerma@hotmail.com,+34 876 50 30 56,1969-10-07,F,False,Regular,Asturias,2023-09-05
+CLI-3747,Eliseo Ropero,eliseo.ropero@hotmail.com,+34 824166553,1968-02-15,M,False,Regular,Huelva,2025-04-22
+CLI-1127,Mamen Olmo,mamen.olmo@gmail.com,+34 883 140 602,1981-02-23,F,False,Regular,Ceuta,2025-07-14
+CLI-1640,Asunción Cortés,asunción.cortés@gmail.com,+34972756185,1965-11-23,F,False,Básico,León,2024-02-03
+CLI-4651,Eloy Reig,eloy.reig@hotmail.com,+34928 009 751,1950-10-07,M,True,Premium,Tarragona,2023-02-14
+CLI-2515,Ismael Cases,ismael.cases@hotmail.com,+34 849 005 577,1971-12-02,M,False,Regular,Navarra,2024-09-03
+CLI-3754,Andrés Felipe Guillen,andrés felipe.guillen@yahoo.com,+34872618324,1999-10-06,M,False,Regular,Asturias,2023-01-13
+CLI-4089,Quirino Burgos,quirino.burgos@hotmail.com,+34874 764 520,1980-05-02,M,True,Básico,Córdoba,2024-10-29
+CLI-9074,Santos Gabaldón,santos.gabaldón@gmail.com,+34925 84 98 25,1972-08-20,M,False,Básico,Girona,2025-03-20
+CLI-2346,Guiomar Lara,guiomar.lara@yahoo.com,+34887687234,1969-10-07,M,True,Regular,Almería,2025-03-30
+CLI-2274,Morena Torralba,morena.torralba@hotmail.com,+34976024629,2003-05-23,F,True,Básico,Alicante,2024-06-18
+CLI-4617,Adelia Sedano,adelia.sedano@hotmail.com,+34 826 183 842,1951-06-11,F,False,Premium,Asturias,2023-10-27
+CLI-9830,Débora Vilar,débora.vilar@hotmail.com,+34 825260422,1992-09-26,F,True,Básico,Burgos,2024-02-25
+CLI-2421,Carlos Caballero,carlos.caballerohotmail.com,+34924869380,1997-11-15,M,False,Premium,Melilla,2024-07-24
+CLI-3158,Leocadio Castrillo,leocadio.castrillo@yahoo.com,+34924 001 701,2002-05-20,M,False,Premium,León,2024-09-21
+CLI-2003,Rosenda Borrás,rosenda.borrás@yahoo.com,+34 928 64 24 00,1975-04-02,F,False,Regular,Huelva,2024-01-01
+CLI-8947,Chus Manzanares,chus.manzanares@yahoo.com,+34 880 75 97 38,1955-05-19,F,False,Básico,Burgos,2022-10-22
+CLI-8557,Alfredo Flores,alfredo.flores@gmail.com,+34914 86 87 40,1953-09-22,M,False,Regular,Girona,2024-04-19
+CLI-4784,Hernando Alvarez,hernando.alvarez@hotmail.com,+34 925 050 641,1974-01-11,M,False,Regular,Melilla,2023-10-17
+CLI-7636,Anastasio Arranz,anastasio.arranz@gmail.com,+34 850 31 73 10,1977-09-02,M,True,Regular,Sevilla,2024-11-12
+CLI-2795,Dorita Barriga,dorita.barriga@yahoo.com,+34848 90 49 04,1950-06-14,F,False,Premium,Ávila,2023-04-28
+CLI-5520,María Luisa Azorin,maría luisa.azorin@yahoo.com,+34612 79 61 14,1989-12-14,F,True,Premium,Huesca,2023-02-14
+CLI-2424,Leocadia Morcillo,leocadia.morcillo@yahoo.com,+34 875545494,1960-12-22,F,False,Básico,Melilla,2023-08-05
+CLI-8215,Evangelina Lloret,evangelina.lloret@yahoo.com,+34 886443283,1993-06-18,F,True,Básico,Zaragoza,2025-05-02
+CLI-6365,Evita Criado,evita.criado@yahoo.com,+34 921 99 10 22,2003-03-05,F,False,Regular,Soria,2023-02-16
+CLI-8962,Pascuala Ibarra,pascuala.ibarra@yahoo.com,+34942289002,2003-04-18,F,True,Regular,Madrid,2023-06-26
+CLI-9866,Hugo Hurtado,hugo.hurtado@yahoo.com,+34924 472 269,2002-01-27,M,False,Básico,Tarragona,2025-02-09
+CLI-1426,Lope Amores,lope.amoreshotmail.com,+34 952 720 465,1999-11-14,M,False,Regular,Lleida,2024-03-03
+CLI-1278,Yaiza Dalmau,yaiza.dalmau@yahoo.com,+34 902 361 103,1951-11-02,F,True,Premium,Asturias,2023-05-07
+CLI-7245,Ismael Llanos,ismael.llanos@gmail.com,+34 827220994,1987-12-11,M,True,Premium,Pontevedra,2023-10-08
+CLI-2979,Demetrio Cuervo,demetrio.cuervogmail.com,+34 880 480 396,1980-11-20,M,True,Regular,Cádiz,2023-07-13
+CLI-3599,Chus Zaragoza,chus.zaragoza@hotmail.com,+34988065787,1945-01-17,F,False,Regular,Ourense,2024-12-01
+CLI-6749,Dan Abril,dan.abril@yahoo.com,+34888885102,1990-02-22,M,False,Regular,Barcelona,2024-07-09
+CLI-7612,Bonifacio Noriega,bonifacio.noriega@yahoo.com,+34 927326033,2003-09-28,M,True,Regular,Castellón,2022-11-16
+CLI-9666,Roxana Romeu,roxana.romeu@hotmail.com,+34 739 40 24 45,1979-09-06,F,True,Regular,Álava,2023-07-21
+CLI-2228,Amor Garriga,amor.garriga@yahoo.com,+34 977175455,1951-08-25,M,False,Regular,Huelva,2022-11-12
+CLI-4787,Ramiro Barba,ramiro.barba@hotmail.com,+34 901 958 803,2002-09-02,M,False,Regular,Zaragoza,2024-04-14
