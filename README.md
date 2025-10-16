@@ -19,7 +19,7 @@ An interactive Power BI dashboard has been built using the forecasted results fr
 You can explore the live dashboard here: [Power BI Dashboard Link](https://app.powerbi.com/your-dashboard-link)
 
 ![Power BI Dashboard Preview](./VentasForecast.png)
-![Power BI Dashboard Preview](./CostosForecast.png)
+![Power BI Dashboard Preview](./CostsForecast.png)
 
 ## Notes
 
