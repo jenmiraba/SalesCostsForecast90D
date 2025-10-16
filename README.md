@@ -18,6 +18,9 @@ It also evaluates model performance using common error metrics such as **MAE**, 
 An interactive Power BI dashboard has been built using the forecasted results from this model.  
 You can explore the live dashboard here: [Power BI Dashboard Link](https://app.powerbi.com/your-dashboard-link)
 
+![Power BI Dashboard Preview](./VentasForecast.png)
+![Power BI Dashboard Preview](./CostosForecast.png)
+
 ## Notes
 
 - The input dataset path (`Datos/ventas_dataset_sucio.csv`) should be updated if your data is stored elsewhere.
