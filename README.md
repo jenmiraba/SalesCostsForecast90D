@@ -16,7 +16,7 @@ It also evaluates model performance using common error metrics such as **MAE**, 
 ## Power BI Dashboard
 
 An interactive Power BI dashboard has been built using the forecasted results from this model.  
-You can explore the live dashboard here: [Power BI Dashboard Link]([https://app.powerbi.com/your-dashboard-link](https://app.powerbi.com/view?r=eyJrIjoiNjU0ZDFiOTUtODQ2MC00YmUxLWExZDQtM2EyNDY1ZTdlYTc0IiwidCI6Ijg5MWYyMzU2LTRhNzgtNDA1Mi04ZjRmLWNhMjQ4MmIyMjE4OSIsImMiOjl9))
+You can explore the live dashboard here: [Power BI Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiNjU0ZDFiOTUtODQ2MC00YmUxLWExZDQtM2EyNDY1ZTdlYTc0IiwidCI6Ijg5MWYyMzU2LTRhNzgtNDA1Mi04ZjRmLWNhMjQ4MmIyMjE4OSIsImMiOjl9)
 
 ![Power BI Dashboard Preview](./images/VentasForecast.png)
 ![Power BI Dashboard Preview](./images/CostsForecast.png)
